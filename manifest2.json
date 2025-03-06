@@ -2,24 +2,24 @@
   "name": "mObywatel",
   "short_name": "mObywatel",
   "description": "Aplikacja logowania PWA",
-  "start_url": "/g/index.html",
+  "start_url": "/pv/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
   "icons": [
         {
-      "src": "/g/assets/images/logo.start.jpg",
+      "src": "/pv/assets/images/logo.start.jpg",
       "sizes": "144x144",
       "type": "image/png"
     },
 
     {
-      "src": "/g/assets/images/logo.start.jpg",
+      "src": "/pv/assets/images/logo.start.jpg",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/g/assets/images/logo.start.jpg",
+      "src": "/pv/assets/images/logo.start.jpg",
       "sizes": "512x512",
       "type": "image/png"
     }
